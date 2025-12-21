@@ -149,7 +149,7 @@ const NaijaCartoonCharacters = () => {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-5xl font-bold text-green-800 mb-2">
-            🎬 Naija Cartoon Characters
+            🎬 Wahala Vibes Cartoon Characters
           </h1>
           <p className="text-xl text-gray-700">Meet the Cast</p>
         </div>
