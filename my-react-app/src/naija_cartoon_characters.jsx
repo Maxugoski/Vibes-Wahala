@@ -29,8 +29,8 @@ const NaijaCartoonCharacters = () => {
     {
       name: "Victor",
       title: "The Humble Graduate",
-      profile: "Humble, caring and loving but also dramatic and fun. A broke graduate working at a filling station.",
-      traits: ["Humble", "Dramatic", "Fun-loving", "Hardworking"],
+      profile: "Kind, caring and loving but also dramatic and fun. A broke graduate working at a filling station.",
+      traits: ["Kind", "Dramatic", "Fun-loving", "Hardworking"],
       colors: {
         skin: "#6B5742",
         hair: "#0a0a0a",
